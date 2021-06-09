@@ -1,0 +1,16 @@
+
+li{
+    list-style: none;
+}
+
+#navigation {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100%;
+    text-transform: uppercase;
+    min-height: 89px;  
+}
+
+
+h1,h2{
+    color: blue 
+}
