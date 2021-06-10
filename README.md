@@ -19,7 +19,7 @@ This is an application that helps list and preview news articles from various so
 
 ## Setup/Installation Requirements
 
-> - Click on the Link to the deployed page: [Heroku](https://newscentral2k21.herokuapp.com/)
+> - Click on the Link to the deployed page: [Heroku](https://ernestmucheru.herokuapp.com/)
 
 ## Known Bugs
 
